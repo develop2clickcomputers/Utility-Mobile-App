@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mobile Utility Application</string>
+    <string name="avatar">Avatar</string>
+    <string name="hardware_details">Hardware Details</string>
+    <string name="processor_name">Processor Name :</string>
+    <string name="ram">RAM :</string>
+    <string name="software_details">Software Details</string>
+    <string name="mobile_details">Mobile Details</string>
+    <string name="battery_details">Battery Details</string>
+</resources>
